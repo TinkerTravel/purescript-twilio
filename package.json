@@ -1,0 +1,6 @@
+{
+  "name": "purescript-twilio",
+  "dependencies": {
+    "twilio": "^2.11.1"
+  }
+}
